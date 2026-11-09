@@ -122,9 +122,9 @@ The final design extends the parking system to support:
 
 \## Author
 
-\*\*Student Name:\*\* \[Enter your name]  
+\*\*Student Name:\*\* \[SHAIK SAMEER PASHA]  
 
-\*\*Register Number:\*\* \[Enter your register number]  
+\*\*Register Number:\*\* \[192425383]  
 
 \*\*Course:\*\* Java Assignment 1  
 
